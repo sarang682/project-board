@@ -2,7 +2,6 @@ package com.project.projectboard.dto.security;
 
 import com.project.projectboard.dto.UserAccountDto;
 import lombok.Getter;
-import org.springframework.boot.web.embedded.undertow.UndertowWebServer;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

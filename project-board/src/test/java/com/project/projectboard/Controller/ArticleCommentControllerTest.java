@@ -1,6 +1,5 @@
 package com.project.projectboard.controller;
 
-import com.project.projectboard.config.SecurityConfig;
 import com.project.projectboard.config.TestSecurityConfig;
 import com.project.projectboard.dto.ArticleCommentDto;
 import com.project.projectboard.dto.request.ArticleCommentRequest;
